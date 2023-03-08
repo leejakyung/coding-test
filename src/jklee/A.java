@@ -10,4 +10,10 @@ public class A {
 	public void name3() {
 		
 	}
+	public void name4() {
+		
+	}
+	public void name5() {
+		
+	}
 }
