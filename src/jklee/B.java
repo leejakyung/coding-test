@@ -1,5 +1,5 @@
 package jklee;
 
-public interface B {
+public class B {
 
 }
