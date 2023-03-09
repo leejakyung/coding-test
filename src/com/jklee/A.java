@@ -1,4 +1,4 @@
-package jklee;
+package com.jklee;
 
 public class A {
 	public void name1() {
